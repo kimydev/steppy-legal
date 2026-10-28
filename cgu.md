@@ -77,5 +77,5 @@ Ces conditions sont soumises au **droit français**. En cas de litige, contacte-
 
 ## 13. Éditeur et contact
 
-**[NOM ET PRÉNOM DE L'ÉDITEUR, ou raison sociale]** — [adresse ou ville, pays]
+**Hicham SILINI** —  Villefranche-sur-Saône, France
 [kiimydev@gmail.com](mailto:kiimydev@gmail.com)
