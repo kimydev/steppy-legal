@@ -12,7 +12,7 @@ En utilisant Steppy, tu acceptes ces conditions. Elles complètent le [contrat d
 
 Steppy est un jeu de marche entre amis : tes pas font avancer ton Steppy, un classement est établi chaque semaine au sein de ton groupe, et le dernier se voit attribuer un **gage** tiré au sort. Les joueurs peuvent aussi s'envoyer des **sabotages** pour pimenter la partie.
 
-Steppy est **un jeu, pas un dispositif médical**. Les nombres de pas proviennent de ton iPhone et d'Apple Santé et peuvent être imprécis. Steppy ne donne aucun conseil médical : demande l'avis d'un professionnel de santé avant d'augmenter fortement ton activité physique.
+Steppy est **un jeu, pas un dispositif médical**. Les nombres de pas proviennent de ton téléphone et d'Apple Santé et peuvent être imprécis. Steppy ne donne aucun conseil médical : demande l'avis d'un professionnel de santé avant d'augmenter fortement ton activité physique.
 
 ## 2. Âge
 
