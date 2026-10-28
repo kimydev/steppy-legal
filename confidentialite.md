@@ -12,7 +12,7 @@ Steppy compte tes pas pour te faire jouer avec tes potes. On collecte le strict 
 
 ## Qui est responsable de tes données
 
-Steppy est édité par **[NOM ET PRÉNOM DE L'ÉDITEUR, ou raison sociale]**, [adresse ou ville, pays].
+Steppy est édité par Hicham SILINI, Villefranche-sur-Saône, France.
 Contact : [kiimydev@gmail.com](mailto:kiimydev@gmail.com)
 
 ## Ce qu'on collecte et pourquoi
