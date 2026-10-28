@@ -31,7 +31,7 @@ Contact : [kiimydev@gmail.com](mailto:kiimydev@gmail.com)
 
 ## D'où viennent tes pas
 
-Du podomètre de ton iPhone (*Mouvements et forme*) et, si tu l'autorises, d'**Apple Santé en lecture seule** : on lit **uniquement** le nombre de pas. Steppy n'écrit rien dans Santé.
+Du podomètre de ton téléphone (*Mouvements et forme*) et, si tu l'autorises, d'**Apple Santé en lecture seule** : on lit **uniquement** le nombre de pas. Steppy n'écrit rien dans Santé.
 
 Conformément aux règles d'Apple, les données issues de Santé (HealthKit) :
 - servent uniquement au fonctionnement du jeu ;
@@ -49,7 +49,6 @@ On fait appel à quelques prestataires techniques, qui traitent les données uni
 - **Supabase** : base de données et comptes, hébergée dans l'**Union européenne (Irlande)**.
 - **RevenueCat** : gestion des abonnements et achats. Il reçoit un identifiant anonyme de ton compte et l'état de tes achats, jamais ta carte bancaire.
 - **Apple** : paiements (App Store), connexion avec Apple, notifications.
-- **Expo** : acheminement des notifications vers ton iPhone.
 
 Certains de ces prestataires peuvent traiter des données hors de l'UE (notamment aux États-Unis). Ces transferts sont encadrés par les garanties prévues par le RGPD (clauses contractuelles types de la Commission européenne ou EU-US Data Privacy Framework).
 
